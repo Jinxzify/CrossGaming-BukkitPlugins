@@ -6,7 +6,7 @@ description: Adds an economy system
 authors: [Cross Gaming Development Team]
 
 commands:
-   bal:
+   bal:100000000
       description: Shows your balance
       usage: /<command> <name>
       permission: CCEconomy.bal
